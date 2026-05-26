@@ -51,4 +51,6 @@ Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFa
 ---
 ## Resume
 
-[📄 Resume]([https://your-link-here](https://docs.google.com/document/d/1uwpBtiX3AQEg1iWoM8r9344KufzC555Kv9Qo6xco_10/edit?usp=sharing))
+## 📄 Resume
+
+[Resume](https://docs.google.com/document/d/1uwpBtiX3AQEg1iWoM8r9344KufzC555Kv9Qo6xco_10/edit?usp=sharing)
