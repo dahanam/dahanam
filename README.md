@@ -47,3 +47,8 @@ Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFa
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dahanam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dahana-moz-ruiz)
+
+---
+## Resume
+
+[📄 Resume]([https://your-link-here](https://docs.google.com/document/d/1uwpBtiX3AQEg1iWoM8r9344KufzC555Kv9Qo6xco_10/edit?usp=sharing))
