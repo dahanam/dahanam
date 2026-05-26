@@ -46,4 +46,4 @@ Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFa
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dahanam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dahanam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dahanam-blue?style=flat&logo=[linkedin](https://linkedin.com/in/dahanam))]
