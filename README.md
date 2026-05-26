@@ -52,5 +52,5 @@ Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFa
 
 ## 📄 Resume & Google Scholar Page
 
-[![Resume](https://img.shields.io/badge/LinkedIn-dahana--moz--ruiz-blue?style=flat&logo=linkedin)](https://docs.google.com/document/d/1uwpBtiX3AQEg1iWoM8r9344KufzC555Kv9Qo6xco_10/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/LinkedIn-dahana--moz--ruiz-blue?style=flat&logo=Resume)](https://docs.google.com/document/d/1uwpBtiX3AQEg1iWoM8r9344KufzC555Kv9Qo6xco_10/edit?usp=sharing)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-D.%20Moz%20Ruiz-lightgrey?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=fyMMHOQAAAAJ&hl=en)
