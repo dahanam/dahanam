@@ -40,7 +40,7 @@ Supported curriculum development and student data collection for broadening part
 
 ## 🧰 Skills
 
-Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFace · scikit-learn · pandas · React · Git
+Python · SQL · Java · JavaScript · PHP · TensorFlow · PyTorch · HuggingFace · scikit-learn · pandas · React · GitHub
 
 ---
 
