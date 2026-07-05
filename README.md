@@ -1,6 +1,6 @@
 # Hi, I'm Dahana 👋
 
-Computer Science student at Kean University, graduating May 2026. I work on data science, AI/ML, and full-stack web projects — including NSF-funded research on student success in CS.
+Computer Science student at Kean University, graduated May 2026. I work on data science, AI/ML, and full-stack web projects — including NSF-funded research on student success in CS.
 
 ---
 
